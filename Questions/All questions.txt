@@ -1,0 +1,61 @@
+Beginner Logic-Building Python Questions
+
+Greet the User
+Ask the user for their name and print a greeting like: "Hello, Ali!".
+
+Add Two Numbers
+Ask the user for two numbers and print their sum.
+
+Temperature Conversion
+Ask the user for a temperature in Celsius and convert it to Fahrenheit.
+
+Even or Odd
+Ask the user for a number and print whether it’s even or odd.
+
+Check Age for Voting
+Ask the user for their age and print "You can vote" if they are 18 or older, otherwise "You cannot vote".
+
+Compare Two Numbers
+Ask for two numbers and print which one is larger (or if they are equal).
+
+Multiplication Table
+Ask the user for a number and print its multiplication table from 1 to 10.
+
+Sum of First N Numbers
+Ask the user for a number n and print the sum of all numbers from 1 to n.
+
+Count Down
+Ask the user for a number and count down from that number to 1.
+
+Check Word Length
+Ask the user for a word and print "Short word" if it has less than 5 letters, otherwise "Long word".
+
+Count Vowels in a Word
+Ask the user for a word and count how many vowels (a, e, i, o, u) it has.
+
+Simple Password Check
+Ask the user to enter a password. If it matches "python123", print "Access granted", else "Access denied".
+
+List of Items
+Create a list of 5 fruits and print the first and last fruit.
+
+Shopping Cart Total
+Ask the user for the prices of 3 items and print the total cost.
+
+Reverse a String
+Ask the user for a word and print it backwards.
+
+Find the Largest in a List
+Create a list of numbers and print the largest one.
+
+Guess the Number Game
+Set a number in your code (e.g., 7) and ask the user to guess it. If correct, print "You guessed it!", else "Try again".
+
+Sum of Even Numbers
+Ask the user for a number n and print the sum of all even numbers from 1 to n.
+
+Word in a Sentence
+Ask the user for a sentence and a word, and check if the word appears in the sentence.
+
+Simple Function Example
+Write a function that takes a name as input and prints "Good morning, [name]!". Call it for at least two different names.
