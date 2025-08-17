@@ -1,30 +1,128 @@
-Q1. Greet the User: Ask the user for their name and print a greeting like "Hello, Ali!".  
-Q2. Add Two Numbers: Ask the user for two numbers and print their sum.  
-Q3. Temperature Conversion: Ask the user for a temperature in Celsius and convert it to Fahrenheit.  
-Q4. Even or Odd: Ask the user for a number and print whether it’s even or odd.  
-Q5. Check Age for Voting: Ask the user for their age and print "You can vote" if 18 or older, otherwise "You cannot vote".  
-Q6. Compare Two Numbers: Ask for two numbers and print which one is larger (or if they are equal).  
-Q7. Multiplication Table: Ask the user for a number and print its multiplication table from 1 to 10.  
-Q8. Sum of First N Numbers: Ask the user for a number n and print the sum of all numbers from 1 to n.  
-Q9. Count Down: Ask the user for a number and count down from that number to 1.  
-Q10. Check Word Length: Ask the user for a word and print "Short word" if it has less than 5 letters, otherwise "Long word".  
-Q11. Count Vowels in a Word: Ask the user for a word and count how many vowels (a, e, i, o, u) it has.  
-Q12. Simple Password Check: Ask the user to enter a password. If it matches "python123", print "Access granted", else "Access denied".  
-Q13. List of Items: Create a list of 5 fruits and print the first and last fruit.  
-Q14. Shopping Cart Total: Ask the user for the prices of 3 items and print the total cost.  
-Q15. Reverse a String: Ask the user for a word and print it backwards.  
-Q16. Find the Largest in a List: Create a list of numbers and print the largest one.  
-Q17. Guess the Number Game: Set a number in your code (e.g., 7) and ask the user to guess it. If correct, print "You guessed it!", else "Try again".  
-Q18. Sum of Even Numbers: Ask the user for a number n and print the sum of all even numbers from 1 to n.  
-Q19. Word in a Sentence: Ask the user for a sentence and a word, and check if the word appears in the sentence.  
-Q20. Simple Function Example: Write a function that takes a name as input and prints "Good morning, [name]!". Call it for at least two different names.  
-Q21. Print numbers from 1 to 10 using a while loop.  
-Q22. Print all even numbers between 1 and 20 using a while loop.  
-Q23. Calculate the sum of numbers from 1 to n (user input).  
-Q24. Print the following pattern using a while loop: *, **, ***, ****  
-Q25. Take a number as input and print its digits in reverse.  
-Q26. Find the factorial of a number using a while loop.  
-Q27. Take numbers from the user until they enter 0, then print the sum.  
-Q28. Print all numbers between 1 and 100 divisible by both 3 and 5.  
-Q29. Create a number guessing game: random number 1-50, user guesses until correct, give hints "Too high"/"Too low".  
-Q30. Find the smallest number divisible by all numbers from 1 to n (LCM problem).  
+# Python Practice Problems
+
+This repository contains **100 Python practice problems** categorized by difficulty to help beginners and intermediate learners improve their programming logic and problem-solving skills.
+
+---
+
+## **Easy (1–30)** – Basics: input, output, arithmetic, simple loops, conditions, lists, strings
+
+1. Greet the user: Ask for their name and print "Hello, [name]!"
+2. Add two numbers from user input.
+3. Subtract two numbers from user input.
+4. Multiply two numbers from user input.
+5. Divide two numbers (handle division by zero).
+6. Celsius to Fahrenheit conversion.
+7. Fahrenheit to Celsius conversion.
+8. Check if a number is even or odd.
+9. Check if a number is positive, negative, or zero.
+10. Compare two numbers and print the larger one (or if equal).
+11. Find the maximum of three numbers.
+12. Find the minimum of three numbers.
+13. Print multiplication table for a number (1–10).
+14. Print sum of first n numbers (user input).
+15. Count down from a number to 1.
+16. Check word length: print "Short" (<5) or "Long".
+17. Count vowels in a word.
+18. Count consonants in a word.
+19. Simple password check (fixed password).
+20. Create a list of 5 fruits; print first and last items.
+21. Ask user for 3 item prices and print total.
+22. Reverse a string input by the user.
+23. Find the largest number in a list of 5 numbers.
+24. Find the smallest number in a list of 5 numbers.
+25. Guess the number game (fixed number).
+26. Sum of all even numbers from 1 to n.
+27. Check if a word exists in a sentence.
+28. Write a function that prints "Good morning, [name]!" for a given name.
+29. Print numbers 1–10 using a while loop.
+30. Print all even numbers 1–20 using a while loop.
+
+---
+
+## **Easy-Medium (31–60)** – Loops, more functions, intermediate string/list manipulation
+
+31. Calculate sum of numbers from 1 to n using a while loop.
+32. Print a pattern: *, **, ***, **** using a while loop.
+33. Reverse the digits of a number.
+34. Find factorial of a number using a while loop.
+35. Take numbers from user until 0; print their sum.
+36. Print numbers 1–100 divisible by 3 and 5.
+37. Number guessing game with random number 1–50 and hints.
+38. Find smallest number divisible by all numbers 1–n (LCM).
+39. Print all prime numbers up to n.
+40. Print all odd numbers between 1–n.
+41. Sum of squares of first n numbers.
+42. Sum of cubes of first n numbers.
+43. Count digits in a number.
+44. Check if a number is prime.
+45. List all divisors of a number.
+46. Calculate sum of divisors of a number.
+47. Check if a number is a palindrome.
+48. Count uppercase and lowercase letters in a string.
+49. Remove duplicates from a list.
+50. Merge two lists into one.
+51. Find common elements between two lists.
+52. Find the second largest number in a list.
+53. Find the second smallest number in a list.
+54. Sort a list of numbers in ascending order.
+55. Sort a list of numbers in descending order.
+56. Print Fibonacci series up to n terms.
+57. Find nth Fibonacci number.
+58. Swap two numbers without a temporary variable.
+59. Convert a string to uppercase.
+60. Convert a string to lowercase.
+
+---
+
+## **Medium (61–80)** – Logic challenges, slightly harder problems
+
+61. Count number of words in a sentence.
+62. Count frequency of each character in a string.
+63. Find the most frequent character in a string.
+64. Remove all vowels from a string.
+65. Replace all spaces in a string with underscores.
+66. Check if two strings are anagrams.
+67. Find GCD of two numbers.
+68. Find LCM of two numbers.
+69. Find all Armstrong numbers up to n.
+70. Print pattern: right-angled triangle of numbers.
+71. Print pattern: inverted triangle of numbers.
+72. Create a dictionary with keys as numbers 1–5 and values as squares.
+73. Merge two dictionaries.
+74. Count number of keys in a dictionary.
+75. Find key with maximum value in a dictionary.
+76. Find key with minimum value in a dictionary.
+77. Create a list of squares of numbers 1–10 using list comprehension.
+78. Create a list of even numbers 1–20 using list comprehension.
+79. Flatten a nested list: [[1,2],[3,4]] → [1,2,3,4]
+80. Transpose a 2x2 matrix.
+
+---
+
+## **Medium-Hard (81–95)** – Advanced logic, nested loops, combining concepts
+
+81. Check if a number is perfect (sum of divisors = number).
+82. Print Pascal’s triangle up to n rows.
+83. Print diamond pattern of stars.
+84. Count number of vowels in a paragraph.
+85. Reverse each word in a sentence.
+86. Shift elements in a list to the right by 1.
+87. Shift elements in a list to the left by 1.
+88. Find all prime numbers in a given range using Sieve of Eratosthenes.
+89. Convert decimal to binary.
+90. Convert binary to decimal.
+91. Convert decimal to hexadecimal.
+92. Check if a number is a strong number (sum of factorials of digits = number).
+93. Create a simple calculator using functions (add, subtract, multiply, divide).
+94. Generate multiplication tables for numbers 1–10 using nested loops.
+95. Merge two sorted lists into a sorted list.
+
+---
+
+## **Hard (96–100)** – Challenging problems, logic-intensive
+
+96. Solve the Tower of Hanoi problem for n disks.
+97. Find all Pythagorean triplets up to a limit n.
+98. Implement binary search on a sorted list.
+99. Implement bubble sort without using built-in functions.
+100. Implement insertion sort without using built-in functions.
