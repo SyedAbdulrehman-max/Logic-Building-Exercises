@@ -47,9 +47,9 @@ This repository contains **100 Python practice problems** categorized by difficu
 34. Find factorial of a number using a while loop.
 35. Take numbers from user until 0; print their sum.
 36. Print numbers 1–100 divisible by 3 and 5.
-37. Number guessing game with random number 1–50 and hints.
-38. Find smallest number divisible by all numbers 1–n (LCM).
-39. Print all prime numbers up to n.
+  37. Number guessing game with random number 1–50 and hints.
+  38. Find smallest number divisible by all numbers 1–n (LCM).
+  39. Print all prime numbers up to n.
 40. Print all odd numbers between 1–n.
 41. Sum of squares of first n numbers.
 42. Sum of cubes of first n numbers.
